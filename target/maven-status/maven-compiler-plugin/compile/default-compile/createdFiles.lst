@@ -1,0 +1,8 @@
+com\Assignment\APIAssignment_VertX\query\QUserCred$Assoc.class
+com\Assignment\APIAssignment_VertX\UserCred.class
+META-INF\native-image\com.Assignment.APIAssignment_VertX.ebean-entity\reflect-config.json
+META-INF\ebean-generated-info.mf
+com\Assignment\APIAssignment_VertX\EbeanEntityRegister.class
+com\Assignment\APIAssignment_VertX\query\QUserCred$Alias.class
+com\Assignment\APIAssignment_VertX\query\QUserCred.class
+META-INF\services\io.ebean.config.EntityClassRegister
